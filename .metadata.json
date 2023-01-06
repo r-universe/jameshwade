@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "package": "gpttools"
+  },
+  {
+    "package": "gptstudio"
+  },
+  {
+    "package": "measure"
+  }
+]

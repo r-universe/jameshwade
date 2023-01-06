@@ -1,5 +1,23 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jameshwade/universe
 	shallow = true
 	branch = HEAD
+[submodule "gpttools"]
+	path = gpttools
+	url = https://github.com/JamesHWade/gpttools
+	shallow = true
+	branch = main
+	registered = true
+[submodule "gptstudio"]
+	path = gptstudio
+	url = https://github.com/MichelNivard/gptstudio
+	shallow = true
+	branch = main
+	registered = true
+[submodule "measure"]
+	path = measure
+	url = https://github.com/JamesHWade/measure
+	shallow = true
+	branch = main
+	registered = true
