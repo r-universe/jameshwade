@@ -21,3 +21,8 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "bslib"]
+	path = bslib
+	url = https://github.com/rstudio/bslib
+	shallow = true
+	registered = false
