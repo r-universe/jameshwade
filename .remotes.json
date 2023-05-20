@@ -4,5 +4,11 @@
     "url": "https://github.com/rstudio/bslib",
     "via": ["gpttools"],
     "from": "gpttools"
+  },
+  {
+    "package": "gptstudio",
+    "url": "https://github.com/michelnivard/gptstudio",
+    "via": ["gpttools"],
+    "from": "gpttools"
   }
 ]
