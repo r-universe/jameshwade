@@ -2,19 +2,19 @@
 	path = .registry
 	url = https://github.com/jameshwade/universe
 	branch = HEAD
-[submodule "gpttools"]
-	path = gpttools
-	url = https://github.com/JamesHWade/gpttools
-	branch = main
+[submodule "bslib"]
+	path = bslib
+	url = https://github.com/rstudio/bslib
+	registered = false
 [submodule "gptstudio"]
 	path = gptstudio
 	url = https://github.com/MichelNivard/gptstudio
+	branch = main
+[submodule "gpttools"]
+	path = gpttools
+	url = https://github.com/JamesHWade/gpttools
 	branch = main
 [submodule "measure"]
 	path = measure
 	url = https://github.com/JamesHWade/measure
 	branch = main
-[submodule "bslib"]
-	path = bslib
-	url = https://github.com/rstudio/bslib
-	registered = false
