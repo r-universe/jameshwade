@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/jameshwade/universe
 	branch = HEAD
-[submodule "bslib"]
-	path = bslib
-	url = https://github.com/rstudio/bslib
-	registered = false
 [submodule "gptstudio"]
 	path = gptstudio
 	url = https://github.com/MichelNivard/gptstudio
