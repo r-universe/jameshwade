@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jameshwade/universe
+	url = https://github.com/jameshwade/jameshwade.r-universe.dev
 	branch = HEAD
 [submodule "gptstudio"]
 	path = gptstudio
