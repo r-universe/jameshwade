@@ -1,0 +1,8 @@
+[
+  {
+    "package": "gptstudio",
+    "url": "https://github.com/michelnivard/gptstudio",
+    "via": ["gpttools"],
+    "from": "gpttools"
+  }
+]
