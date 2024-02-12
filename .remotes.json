@@ -4,5 +4,11 @@
     "url": "https://github.com/michelnivard/gptstudio",
     "via": ["gpttools"],
     "from": "gpttools"
+  },
+  {
+    "package": "rstudioapi",
+    "url": "https://github.com/rstudio/rstudioapi",
+    "via": ["gpttools"],
+    "from": "gpttools"
   }
 ]

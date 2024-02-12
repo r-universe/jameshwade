@@ -14,3 +14,7 @@
 	path = measure
 	url = https://github.com/JamesHWade/measure
 	branch = main
+[submodule "rstudioapi"]
+	path = rstudioapi
+	url = https://github.com/rstudio/rstudioapi
+	registered = false
