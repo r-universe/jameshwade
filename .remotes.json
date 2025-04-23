@@ -1,5 +1,11 @@
 [
   {
+    "package": "ellmer",
+    "url": "https://github.com/tidyverse/ellmer",
+    "via": ["gptstudio"],
+    "from": "gptstudio"
+  },
+  {
     "package": "gptstudio",
     "url": "https://github.com/michelnivard/gptstudio",
     "via": ["gpttools"],
@@ -10,5 +16,11 @@
     "url": "https://github.com/rstudio/rstudioapi",
     "via": ["gpttools"],
     "from": "gpttools"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["gptstudio", "ellmer"],
+    "from": "gptstudio"
   }
 ]
