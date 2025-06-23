@@ -22,7 +22,3 @@
 	path = rstudioapi
 	url = https://github.com/rstudio/rstudioapi
 	registered = false
-[submodule "shinychat"]
-	path = shinychat
-	url = https://github.com/posit-dev/shinychat
-	registered = false

@@ -16,11 +16,5 @@
     "url": "https://github.com/rstudio/rstudioapi",
     "via": ["gpttools"],
     "from": "gpttools"
-  },
-  {
-    "package": "shinychat",
-    "url": "https://github.com/posit-dev/shinychat",
-    "via": ["gptstudio", "ellmer"],
-    "from": "gptstudio"
   }
 ]
