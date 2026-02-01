@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/jameshwade/jameshwade.r-universe.dev
 	branch = HEAD
-[submodule "ellmer"]
-	path = ellmer
-	url = https://github.com/tidyverse/ellmer
-	registered = false
 [submodule "gptstudio"]
 	path = gptstudio
 	url = https://github.com/MichelNivard/gptstudio
@@ -18,7 +14,3 @@
 	path = measure
 	url = https://github.com/JamesHWade/measure
 	branch = main
-[submodule "rstudioapi"]
-	path = rstudioapi
-	url = https://github.com/rstudio/rstudioapi
-	registered = false
